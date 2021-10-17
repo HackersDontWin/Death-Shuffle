@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DeathShuffle">
+    <output-path>E:/Servers/Spigot/Testing Servers/1.17.1 testing server/plugins</output-path>
+    <root id="archive" name="DeathShuffle.jar">
+      <element id="module-output" name="Death-Shuffle" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

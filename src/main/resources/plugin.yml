@@ -1,0 +1,9 @@
+name: DeathShuffle
+main: net.hackersdontwin.deathshuffle.DeathShuffle
+version: 1.0
+author: HackersDontWin
+
+commands:
+  start:
+    usage: /<command>
+    description: Start the Death Shuffle game!
